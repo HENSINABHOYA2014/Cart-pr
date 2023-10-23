@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "category": [
+    {
+      "category_name" : "mobile"
+    },
+    {
+      "category_name" : "eletronics"
+    }
+  ],
+  "products" : [
+    {
+        "name" : "Trimmers",
+        "price" : 500,
+        "qty" : 1,
+        "image" : "https://beardo.in/cdn/shop/files/1.1.jpg?v=1690636048&width=1946",
+        "category" : "eletronics",
+        "status" : "instock",
+        "id" : 1
+    },
+    {
+      "name" : "keyboard",
+      "price" : 400,
+      "qty" : 1,
+      "image" : "https://rukminim2.flixcart.com/image/416/416/ksxjs7k0/keyboard/desktop-keyboard/i/n/d/zeb-k20-zebronics-original-imag6dugjbazygpz.jpeg?q=70",
+      "status" : "instock",
+      "category" : "eletronics",
+      "id" : 2
+    },
+    {
+      "name" : "printer",
+      "price" : 25000,
+      "qty" : 1,
+      "image" : "https://rukminim2.flixcart.com/image/416/416/xif0q/printer/e/k/r/-original-imagqsmzectcgpry.jpeg?q=70",
+      "status" : "instock",
+      "category" : "eletronics",
+      "id" : 3
+    },
+    {
+      "name" : "pendrive",
+      "price" : 500,
+      "qty" : 1,
+      "image" : "https://www.jiomart.com/images/product/original/rvrqopu4au/v220w-128gb-1-otg-free-product-images-orvrqopu4au-p603866237-0-202308132040.png?im=Resize=(420,420)",
+      "status" : "instock",
+      "category" : "eletronics",
+      "id" : 4
+    },
+    {
+      "name" : "iphone",
+      "price" : 75000,
+      "qty" : 1,
+      "image" : "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/iphone-15-084541573-16x9_3.png?VersionId=7f2lrBsIJhGzRKO6ZdWIqNTf2Tjcfhz7",
+      "status" : "instock",
+      "category" : "mobile",
+      "id" : 5
+    },
+    {
+      "name" : "mi",
+      "price" : 10000,
+      "qty" : 1,
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXA0Q6bPaa_VZo5nWmeFaTiKzC07Ly8VXa0clcTdu5Vpa6Gnx6_GbsreAjJsrjcGdvN0&usqp=CAU",
+      "status" : "instock",
+      "category" : "mobile",
+      "id" : 6
+    },
+    {
+      "name" : "samsung",
+      "price" : 15000,
+      "qty" : 1,
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbdiH51hYfFz5x8Stw216XOHi9C6L8AXtGh-7l3yx7kj9EtpclyAbmHq-rDfOk3VZBf8&usqp=CAU",
+      "status" : "instock",
+      "category" : "mobile",
+      "id" : 7
+    },
+    {
+      "name" : "vivo",
+      "price" : 8000,
+      "qty" : 1,
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgke7bVKb3KeK5zhz_kJdoA27ZauFer1CcFOd7TTlKwmRt2BucFr_se8ZP6obE0TL_a48&usqp=CAU",
+      "status" : "instock",
+      "category" : "mobile",
+      "id" : 8
+    },
+    {
+      "name" : "Lenovo Monitor",
+      "price" : 25000,
+      "qty" : 1,
+      "image" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjjGs0dF83wRAfErNvEIb_2k6WBPVUtXP46wnkxjwc2EkimWblg93kl1By2AhD17QxpYYpwcSEEPzy6jRLaurw78ybYRjfIGiQvCnrLUo&usqp=CAE",
+      "status" : "instock",
+      "category" : "eletronics",
+      "id" : 9
+    },
+    {
+      "name" : "realme",
+      "price" : 5000,
+      "qty" : 1,
+      "image" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0Y63J-QaKK_Wi2EwkHpdwCwLyqccAKIvpW90nM5Mjwe0c5017M-TR3eDaTao8-YENQa3y0NPJFb-akqVNWJwbZ6xuxivmqlS7_MSAMRvbNHSKQCZLoQ2aRQ&usqp=CAE",
+      "status" : "instock",
+      "category" : "mobile",
+      "id" : 10
+    }
+
+    
+  ]
+  
+}
